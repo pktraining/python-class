@@ -1,7 +1,0 @@
-pygame
-pytest
-jupyterlab
-jupyter-book
-jupytext
-copydetect
-bash_kernel
